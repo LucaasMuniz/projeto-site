@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site criado durande o curso de Git e GitHub
+ Este projeto na verdade foi para testar e treinar o branch e o merge
